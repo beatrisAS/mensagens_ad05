@@ -391,5 +391,5 @@ Estas são ideias para evoluir o exercício; **não estão implementadas na vers
 ---
 
 <div align="center">
-  Projeto de estudo sobre integração entre Python, HTTP e serviços Google. 
+  Projeto de estudo sobre integração entre Python, HTTP e serviços Google no contexto do bootcamp de Analista de Dados da Generation Brasil.
 </div>
